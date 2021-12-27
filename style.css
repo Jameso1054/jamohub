@@ -1,0 +1,18 @@
+  body{
+    background-color:#c1c6fd;
+    color:#160909;
+    }
+
+
+a:link{
+color: hotpink}
+
+a:hover{
+color: indianred}
+
+a:visited{
+color: lightcoral}
+
+a:active{
+color:maroon}
+
