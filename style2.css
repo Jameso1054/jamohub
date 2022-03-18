@@ -1,0 +1,29 @@
+  body{
+    background-color: white;
+color:maroon;
+    }
+
+p{
+color:maroon;
+}
+
+h1, h2, h3, h4{
+color:#1a0000;
+}
+
+.hidden {
+display: none;
+}
+
+a:link{
+color:maroon;}
+
+a:hover{
+color: indianred}
+
+a:visited{
+color:maroon;}
+
+a:active{
+color:maroon}
+
