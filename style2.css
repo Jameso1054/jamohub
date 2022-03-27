@@ -1,29 +1,23 @@
-  body{
-    background-color: white;
-color:maroon;
-    }
-
-p{
-color:maroon;
-}
-
-h1, h2, h3, h4{
-color:#1a0000;
-}
-
-.hidden {
-display: none;
-}
-
 a:link{
-color:maroon;}
+color: #fd03fd
+}
 
 a:hover{
-color: indianred}
+color: #fd03fd
+}
 
 a:visited{
-color:maroon;}
+color: #bf3fb7
+}
 
 a:active{
-color:maroon}
+color:maroon
+}
 
+fancy{
+font-style: italic;
+}
+
+body{
+background-color:#dfdce4;
+}
