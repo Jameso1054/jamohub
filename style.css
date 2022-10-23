@@ -1,24 +1,4 @@
-a:link{
-color: #fd03fd
-}
-
-a:hover{
-color: #fd03fd
-}
-
-a:visited{
-color: #bf3fb7
-}
-
-a:active{
-color:maroon
-}
-
-fancy{
-font-style: italic;
-}
-
 body{
-background-color:#f0f0f0;
+background: white;
 color: black;
 }
