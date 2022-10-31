@@ -1,4 +1,9 @@
 body{
 background: white;
 color: black;
+
+fancy{
+font-style: italic;
+}
+
 }
